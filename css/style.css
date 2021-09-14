@@ -1,0 +1,81 @@
+
+/*---------------header------------*/
+
+.header a{
+    color:white;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+.container-fluid{
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.dropdown-menu{
+    padding: .5rem 1rem;
+    background-color: #d41601;
+}
+.dropdown-menu a{
+    color:aliceblue;
+}
+
+/*-------------footer-------------------*/
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .full-footer{
+    background-color: #851408;
+   
+    
+  }
+  .top-footer p{
+    color: white;
+  }
+  .top-footer a{
+    color: white;
+    font-weight: 600;
+  }
+  .top-footer h2{
+    color: white;
+  }
+  .bottom-footer{
+      padding-top: 2rem;
+    background-color: #641007; width: 100%;
+  }
+ .bottom-footer p{
+    color: white;
+}
+
+/*------- body-------*/
+
+.card-body img{
+    width:15rem;
+    height:20rem;    
+}
+
+div.scroll {
+    margin: 4px, 4px;
+    padding: 4px;
+    background-color: #d41601;
+    width: 300rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.subj{
+    background-color: #d41601;
+    width: 10rem;
+    height:5rem;
+    border-radius: 1rem;
+    color: white;
+}
+
+.subj a{
+    color: white;
+    font-size: .89rem;
+}
